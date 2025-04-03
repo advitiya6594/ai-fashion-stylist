@@ -1,5 +1,4 @@
-# ai-fashion-stylist
-cat > README.md << 'EOF'
+
 # 👗 AI Fashion Stylist
 
 An intelligent fashion styling tool built with Python that generates complete outfits based on a garment's **image** or **textual description**. Whether you're uploading a clothing photo or describing it in words, this AI stylist analyzes the garment and suggests a stylish outfit pairing, helping users make confident fashion decisions.
@@ -32,4 +31,3 @@ An intelligent fashion styling tool built with Python that generates complete ou
 - Integration with online fashion retailers for shopping.
 
 ---
-EOF
